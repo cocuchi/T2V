@@ -1,0 +1,10 @@
+{
+  "version": "1.5.0",
+  "releaseDate": "2026-07-15",
+  "downloadUrl": {
+    "gitee": "https://gitee.com/cocuchi/T2V/releases/download/v1.5.0/图文助手-1.5.0-setup.exe",
+    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.0/图文助手-1.5.0-setup.exe"
+  },
+  "sha256": "07418d1834ed82d9eba3a31f841661d7f17d74509c909652e2f921a826351169",
+  "releaseNotes": "1. 新增版本自动更新功能，支持手动检查与每日自动检测\n2. 设置新增「版本更新」页，支持 Gitee/GitHub 双源切换\n3. 下载过程实时进度条 + 取消下载不留残留文件\n4. SHA256 完整性校验，校验失败自动删除\n5. 支持「跳过此版本」，跳过不压制手动检查\n6. 产品名统一为「图文助手」，安装包命名确定性生成"
+}

@@ -5,6 +5,6 @@
     "gitee": "https://gitee.com/cocuchi/T2V/releases/download/v1.5.1/图文助手-1.5.1-setup.exe",
     "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.1/图文助手-1.5.1-setup.exe"
   },
-  "sha256": "176705a4622eb73bce9fd4a2daaeaef92aede743ccf9b1de057f17bd82ccb0ac",
+  "sha256": "bc261f475a56bf68b31680619a22607f342f2362a586e9ff7edaf057bf692671",
   "releaseNotes": "1. 用户数据目录从 visual-copywriting-tool 改为 T2V\n2. 新增自定义应用图标\n3. 版本号 1.5.1（测试内置更新功能）"
 }

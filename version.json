@@ -1,9 +1,9 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "releaseDate": "2026-07-13",
   "downloadUrl": {
-    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.3/tuwen-1.5.3-setup.exe"
+    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.4/tuwen-1.5.4-setup.exe"
   },
-  "sha256": "2a98767cb77fd9c47827861ec81e71cc3a98bc7176163577fc23f7a9ede77ac6",
-  "releaseNotes": "1. 安装器新增自动关闭旧版进程，不再因文件占用崩溃闪退\n2. 用户数据目录从 visual-copywriting-tool 改为 T2V\n3. 新增自定义应用图标\n4. 移除 Gitee 下载源，仅保留 GitHub"
+  "sha256": "e68fcd92085cdf8ee5cba982159b09222576989d54d2a52bec3bc0c0ad005c32",
+  "releaseNotes": "1. 安装器加强关闭旧版进程逻辑，彻底解决卸载旧文件失败问题\n2. 用户数据目录从 visual-copywriting-tool 改为 T2V\n3. 新增自定义应用图标\n4. 移除 Gitee 下载源，仅保留 GitHub"
 }

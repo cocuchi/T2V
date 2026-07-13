@@ -1,9 +1,9 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "releaseDate": "2026-07-13",
   "downloadUrl": {
-    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.4/tuwen-1.5.4-setup.exe"
+    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.5/tuwen-1.5.5-setup.exe"
   },
-  "sha256": "e68fcd92085cdf8ee5cba982159b09222576989d54d2a52bec3bc0c0ad005c32",
-  "releaseNotes": "1. 安装器加强关闭旧版进程逻辑，彻底解决卸载旧文件失败问题\n2. 用户数据目录从 visual-copywriting-tool 改为 T2V\n3. 新增自定义应用图标\n4. 移除 Gitee 下载源，仅保留 GitHub"
+  "sha256": "0844269497c1b4a91216ca0f8fe304d604dcb5a623888e6de3f6f602b0b303b8",
+  "releaseNotes": "1. 修复安装时手动修改安装路径导致的升级失败（旧版无法关闭/卸载旧文件失败）——现固定安装目录、强制就地升级\n2. 下载新版校验通过后可\"立即安装\"，自动关闭应用并启动安装程序，无需手动运行\n3. 更新下载域名白名单，兼容 GitHub 新的 release-assets 重定向域名\n4. 应用图标裁为正方形，安装文档更新"
 }

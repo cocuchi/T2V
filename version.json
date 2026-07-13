@@ -2,8 +2,8 @@
   "version": "1.5.1",
   "releaseDate": "2026-07-13",
   "downloadUrl": {
-    "gitee": "https://gitee.com/cocuchi/T2V/releases/download/v1.5.1/图文助手-1.5.1-setup.exe",
-    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.1/图文助手-1.5.1-setup.exe"
+    "gitee": "https://gitee.com/cocuchi/T2V/releases/download/v1.5.1/tuwen-1.5.1-setup.exe",
+    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.1/tuwen-1.5.1-setup.exe"
   },
   "sha256": "bc261f475a56bf68b31680619a22607f342f2362a586e9ff7edaf057bf692671",
   "releaseNotes": "1. 用户数据目录从 visual-copywriting-tool 改为 T2V\n2. 新增自定义应用图标\n3. 版本号 1.5.1（测试内置更新功能）"

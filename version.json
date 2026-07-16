@@ -1,1 +1,9 @@
-{"version":"1.5.6","releaseDate":"2026-07-13","downloadUrl":{"github":"https://github.com/cocuchi/T2V/releases/download/v1.5.6/tuwen-1.5.6-setup.exe"},"sha256":"96e1b793a1ac7eebbd68e8a6e52dcdef326789fd61c428ab775b80ee43e79f49","releaseNotes":"1. 修复设置中 Tavily/Firecrawl 注册链接在 Electron 窗口内打开的问题，改为使用系统默认浏览器\n2. 修复打包后帮助文档缺失导致点击帮助按钮报错的问题\n3. 更新帮助文档，新增 FAQ 条目"}
+{
+  "version": "1.5.7",
+  "releaseDate": "2026-07-16",
+  "downloadUrl": {
+    "github": "https://github.com/cocuchi/T2V/releases/download/v1.5.7/tuwen-1.5.7-setup.exe"
+  },
+  "sha256": "a1cbcbcadb82feab25cf3566b6ef9b7378350b0e636c29486b4be7f5cc9d4bec",
+  "releaseNotes": "1. 重构 AI 生图/动态图表(Data2Motion)/图表配图占位符处理管线，修复生图提示词退化、动态图表被误转成静态图、取消生图后残留 alt/style 碎片、图表元数据重复等问题\n2. 同一页多个失败的图表/配图占位框现可各自独立点\"重新生成\"，只替换对应的那一张，互不影响\n3. 保存/导出前校验页面媒体结构，页面存在未处理占位符或损坏结构时会提示\"已取消\"，避免把未完成或损坏的页面覆盖上一次的有效文件\n4. 新增脱敏生图调试日志：开启调试模式后记录生图摘要，绝不记录完整提示词、签名 URL 或图片数据"
+}
